@@ -3,7 +3,7 @@ server:
   
 spring:
   datasource:
-    url: @dataSource.project.jdbcURL@
+    url: '@dataSource.project.jdbcURL@'
     username: root
     password: admin
     driver-class-name: com.mysql.cj.jdbc.Driver

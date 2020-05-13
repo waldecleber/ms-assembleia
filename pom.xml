@@ -48,7 +48,7 @@
         <profile>
             <id>heroku</id>
             <properties>
-                <dataSource.project.jdbcURL>jdbc:mysql://bda83c7e8b3a54:7ac77bd7@us-cdbr-east-02.cleardb.net/heroku_13ff0fbdba14258?reconnect=true</dataSource.project.jdbcURL>
+                <dataSource.project.jdbcURL>jdbc:mysql://b994d85f673f0c:9799755b@us-cdbr-east.cleardb.com/heroku_6c23f40f9664b1d?reconnect=true</dataSource.project.jdbcURL>
             </properties>
         </profile>
     </profiles>
