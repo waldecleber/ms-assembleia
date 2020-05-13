@@ -3,9 +3,9 @@ server:
   
 spring:
   datasource:
-    url: @dataSource.project.jdbcURL@
-    username: @dataSource.project.username@
-    password: @dataSource.project.password@
+    url: jdbc:mysql://b994d85f673f0c:9799755b@us-cdbr-east-06.cleardb.net/heroku_6c23f40f9664b1d?reconnect=true
+    username: b994d85f673f0c
+    password: 9799755b
     driver-class-name: com.mysql.cj.jdbc.Driver
     
   jpa:
